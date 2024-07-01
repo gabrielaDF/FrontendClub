@@ -1,8 +1,8 @@
-# Nombre del proyecto - 100daysofprojects
+# Profile Card - 100daysofprojects
 
-[Nombre del proyecto] construido con HTML, CSS y JavaScript, para mejorar nuestras habilidades de codificación. Este proyecto es parte del desafío #100daysofprojects promovido por [Frontend Club](https://www.facebook.com/frontendclubfb).
+[Profile Card] construido con HTML, CSS y JavaScript, para mejorar nuestras habilidades de codificación. Este proyecto es parte del desafío #100daysofprojects promovido por [Frontend Club](https://www.facebook.com/frontendclubfb).
 
-![Screenshot](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
+![Screenshot](./images/modelo.jpg)
 
 ### Tabla de contenidos
 
@@ -29,18 +29,18 @@ Los usuarios deberían poder:
 
 ### Capturas
 
-Agrega capturas de pantalla en móvil, tabletas y escritorio.
+Así se verá en la pantalla de móvil, tabletas y escritorio.
 
-![Captura](https://i.imgur.com/IkSnFRL.png)
+![Captura](./images/phone.png)
+![Captura](./images/tablet.png)
+![Captura](./images/pc.png)
+![Captura](./images/image.png)
 
 > 💡Firefox te permite hacer capturas de pantalla haciendo clic derecho `Hacer captura de pantalla`.
 
 ### Enlaces
 
-Agrega los enlaces de la solución del proyecto y el repositorio.
-
-- [Proyecto](#)
-- [Repositorio](#)
+- [Repositorio](https://github.com/gabrielaDF/FrontendClub/tree/main/Proy01%20Profile%20card)
 
 ## Flujo de trabajo
 
@@ -55,7 +55,7 @@ Ejemplo:
 ```txt
 /
 📂
-├── 📂css/
+
 │ ├── normalize.css
 │ └── style.css
 ├── 📂images/
@@ -142,35 +142,12 @@ Animaciones CSS.
 }
 ```
 
-### Recursos
-
-Comparte los recursos que hayas utilizado para completar este proyecto.
-
-1. Este recurso me ayudó a crear efectos overlay sobre una imagen.
-   - [CSS Overlay](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
-   - [Overlay](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
-2. Este recurso me ayudó a crear tablas en HTML tipo zebra.
-   - [Zebra tables](https://www.w3schools.com/howto/howto_css_table_zebra.asp)
-3. Este recurso me ayudó a crear un timeline del tiempo para mi portafolio.
-   - [Timeline Workflow](https://www.w3schools.com/howto/howto_css_timeline.asp)
-
-## Agradecimientos
-
-Agradece a las personas que te inspiran a seguir adelante, o fuentes que te hayan impactado para ser mejor cada día.
-
-- Mi madre que siempre me apoya en mis proyectos
-- Mi amigo Juan que siempre me comparte recursos de desarrollo web
-- Mi profesor John que siempre escucha mis ideas
-- Comunidad Frontend Club que siempre están apoyando con cualquier mínima cosa que surja
-
 ## Contacto
 
 Agrega los medios de contacto para que cualquiera pueda encontrarte y hablar sobre tus siguientes grandes proyectos.
 
-- [LinkedIn](#)
-- [Facebook](#)
-- [GitHub](#)
-- [Correo](#)
+- [LinkedIn](https://www.linkedin.com/in/gabriela-de-freitas-90529b121/)
+- [GitHub](https://github.com/gabrielaDF)
 
 ---
 
