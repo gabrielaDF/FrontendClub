@@ -26,20 +26,36 @@
   </head>
 
   <body>
-    im
-    <h1>Gabriela De Freitas</h1>
-    <h5>Jamundí, Valle</h5>
-    <blockquote>
-      Desarrollador Full Stack con orientación al Front-end con capacidad de
-      realizar proyectos web con tecnologías como React, Redux, Javascript,
-      Express, NodeJs, Sequelize, PostgreSql.
-    </blockquote>
+    <div>
+      <img src="./images/profile-pic (2).png" alt="My photo" />
+      <h1>Gabriela De Freitas</h1>
+      <h5>Jamundí, Valle</h5>
+      <blockquote>
+        Desarrollador Full Stack con orientación al Front-end con capacidad de
+        realizar proyectos web con tecnologías como React, Redux, Javascript,
+        Express, NodeJs, Sequelize, PostgreSql.
+      </blockquote>
+    </div>
 
     <style>
-      h1,
-      h5,
-      blockquote {
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
         text-align: center;
+      }
+      div {
+        display: block;
+        width: 50%;
+        height: auto;
+      }
+      img {
+        display: block;
+        margin: 0 auto;
+        width: 150px;
+        height: auto;
       }
     </style>
   </body>
