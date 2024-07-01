@@ -26,7 +26,7 @@
   </head>
 
   <body>
-    <div>
+    <div class="profile">
       <img src="./images/profile-pic (2).png" alt="My photo" />
       <h1>Gabriela De Freitas</h1>
       <h5>Jamundí, Valle</h5>
@@ -46,10 +46,14 @@
         margin: 0;
         text-align: center;
       }
-      div {
+      .profile {
         display: block;
         width: 50%;
         height: auto;
+        transition: background-color 0.3s;
+      }
+      .profile:hover {
+        background-color: #3dd7eeaf; /* Color de fondo al pasar el mouse */
       }
       img {
         display: block;
